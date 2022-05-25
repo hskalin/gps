@@ -5,5 +5,4 @@ This repository contains code and documentation for interpretable Geometry Probl
 ## TODO
 - [ ] Implementing LSTM for text parsing
 - [ ] Improve on Diagram Parser
-- [ ] Implement Text Parser
 - [ ] Extend geometry3k dataset
