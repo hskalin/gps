@@ -6,3 +6,7 @@ This repository contains code and documentation for interpretable Geometry Probl
 - [ ] Implementing LSTM for text parsing
 - [ ] Improve on Diagram Parser
 - [ ] Extend geometry3k dataset
+- [ ] Include more of problems from Indian textbooks
+- [ ] Improvement on Text Parsing by increasing Dataset
+- [ ] 500 extra problems target
+
