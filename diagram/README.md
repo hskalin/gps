@@ -199,3 +199,69 @@ s.t. $(s_{i},p_{j})$ &isin; Feasibility set $F$, where $F$ defines the geometric
     ../../data/geometry3k/symbols/2738.png,258,9,285,41,text
     ../../data/geometry3k/symbols/2738.png,232,142,267,175,perpendicular
     ```
+
+    It will generate two files:
+
+- `geometry_labels.csv` : containing training and validation symbol data
+- `geometry_labels_val.csv` : containing testing symbol data.
+
+RetinaNet can be trained on a custom dataset, with annotations in CSV format. We
+fine-tune the detection model RetinaNet over the preprocessed data: 
+
+```
+    cd detection
+    python train.py --dataset csv \
+    --csv_train geometry_labels.csv \
+    --csv_classes classes.txt \
+    --csv_val geometry_labels_val.csv \
+    --output_path models
+```
+
+
+- The `classes.txt` lists all types of predefined symbols, like `text`, `angle`, `bar`,
+  `parallel` and so on. The RetinaNet model uses a ResNet backbone. You can set
+  the depth of the ResNet model using the `--depth` argument. The depth must be
+  one of 18, 34, 50, 101 or 152. The checkpoints will be saved in `models`.
+
+- More details on how to use csv dataset with ResNet [here](https://github.com/yhenon/pytorch-retinanet).
+
+- It is better to run the training on Colab [here](https://colab.research.google.com/drive/1OuYtJ-rUd5tjP-xy6SvXohKgiRWF1Jev?usp=sharing), local training doesn't yield
+  good results.
+
+  ```
+    CUDA available: True
+
+    mAP:
+    angle: 0.07468151109714634
+    double angle: 0.028857142857142856
+    triple angle: 0.0
+    bar: 0.7095360599026347
+    double bar: 0.44744508428672597
+    triple bar: 0.0
+    parallel: 0.8166567957232285
+    double parallel: 0.0
+    triple parallel: 0.0
+    perpendicular: 0.980907652260683
+    text: 0.9845240843286119
+    Total: 0.9400441630614879
+
+    [Average Acc]: 0.940044
+  ```
+
+
+
+Then to generate detection results run:
+
+```
+  python test.py \
+  --image_dir ../../data/geometry3k/symbols \
+  --model models/csv_retinanet_1.pt \
+  --class_list classes.txt \
+  --output_path ../detection_results
+```
+
+The generated results are saved in two folders in =detection_results= :
+- `box_results` : all detected symbol regions;
+- `ocr_results` : all individual text regions cropped from the diagrams, waiting to be recognized by the optical character recognition tool.
+
+
