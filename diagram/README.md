@@ -24,7 +24,7 @@ s.t. $(s_{i},p_{j})$ &isin; Feasibility set $F$, where $F$ defines the geometric
 
 <a id="org8ed3406"></a>
 
-## Imporvements
+## Improvements
 
 -   17% improvement in performance when used ground truth diagram formal language
 
