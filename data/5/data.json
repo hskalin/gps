@@ -1,0 +1,44 @@
+{
+  "problem_text": "In Fig. 10.6, if \u2220OAB = 40\u00ba, then \u2220ACB is equal to ",
+  "choices": [
+    "50",
+    "40",
+    "60",
+    "70"
+  ],
+  "answer": "",
+  "detailed_solution": " ",
+  "problem_type_graph": [],
+  "problem_type_goal": [],
+  "source": "",
+  "comment": "",
+  "id": "5",
+  "annot_id": "",
+  "is_standard": "",
+  "compact_choices": [
+    "50",
+    "40",
+    "60",
+    "70"
+  ],
+  "precise_value": [
+    50.0,
+    40.0,
+    60.0,
+    70.0
+  ],
+  "rough_value": [
+    50,
+    40,
+    60,
+    70
+  ],
+  "compact_text": "",
+  "annotat_text": "",
+  "unit": "",
+  "img_width": 0,
+  "img_height": 0,
+  "data_type": "",
+  "date": "",
+  "system": ""
+}

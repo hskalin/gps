@@ -1,0 +1,48 @@
+{
+  "problem_text": "From a point P which is at a distance of 13 cm from the centre O of a circle of radius 5 cm, the pair of tangents PQ and PR to the circle are drawn. Then the area of the quadrilateral PQOR is ",
+  "choices": [
+    "60",
+    "65",
+    "30",
+    "32.5"
+  ],
+  "answer": "A",
+  "detailed_solution": " ",
+  "problem_type_graph": [
+    "Circle"
+  ],
+  "problem_type_goal": [
+    "Area"
+  ],
+  "source": "jeep209.pdf",
+  "comment": "",
+  "id": "16",
+  "annot_id": "",
+  "is_standard": "",
+  "compact_choices": [
+    "60",
+    "65",
+    "30",
+    "32.5"
+  ],
+  "precise_value": [
+    60.0,
+    65.0,
+    30.0,
+    32.5
+  ],
+  "rough_value": [
+    60,
+    65,
+    30,
+    32.5
+  ],
+  "compact_text": "",
+  "annotat_text": "",
+  "unit": "",
+  "img_width": 0,
+  "img_height": 0,
+  "data_type": "",
+  "date": "23-05-2022",
+  "system": "linux"
+}

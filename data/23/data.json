@@ -1,0 +1,48 @@
+{
+  "problem_text": "An exterior angle of a triangle is 105° and its two interior opposite angles are equal. Each of these equal angles is",
+  "choices": [
+    "37.5",
+    "52.5",
+    "72.5",
+    "75"
+  ],
+  "answer": "B",
+  "detailed_solution": " ",
+  "problem_type_graph": [
+    ""
+  ],
+  "problem_type_goal": [
+    "Angle"
+  ],
+  "source": "class-9-maths-chapter-6.pdf",
+  "comment": "",
+  "id": "23",
+  "annot_id": "",
+  "is_standard": "",
+  "compact_choices": [
+    "37.5",
+    "52.5",
+    "72.5",
+    "75"
+  ],
+  "precise_value": [
+    37.5,
+    52.5,
+    72.5,
+    75.0
+  ],
+  "rough_value": [
+    37.5,
+    52.5,
+    72.5,
+    75
+  ],
+  "compact_text": "",
+  "annotat_text": "",
+  "unit": "",
+  "img_width": 0,
+  "img_height": 0,
+  "data_type": "",
+  "date": "23-05-2022",
+  "system": "linux"
+}

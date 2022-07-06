@@ -1,0 +1,44 @@
+{
+    "0": {
+        "logic_forms": [
+
+            "Circle(M)",
+            "Circle(N)",
+            "PointLiesOnCircle(A, Circle(M))",
+            "PointLiesOnCircle(B, Circle(M))",
+            "PointLiesOnCircle(B, Circle(N))",
+            "PointLiesOnCircle(C, Circle(N))",
+            "PointLiesOnCircle(D, Circle(N))",
+            "IsDiameterOf(Line(CD),Circle(N))",
+            "PointLiesOnLine(D, Line(C, Y))",
+            "PointLiesOnLine(A, Line(X, Y))",
+            "Tangent(Line(XY),Circle(M))",
+            "PointLiesOnLine(B, Line(A, C))"
+
+        ]
+    },
+    "1": {
+        "logic_forms": [
+
+            "Circle(M)",
+            "Circle(N)",
+            "Line(B, G)",
+            "Line(D, G)",
+            "PointLiesOnCircle(A, Circle(M))",
+            "PointLiesOnCircle(C, Circle(M))",
+            "PointLiesOnCircle(B, Circle(M))",
+            "PointLiesOnCircle(E, Circle(M))",
+            "PointLiesOnCircle(A, Circle(N))",
+            "PointLiesOnCircle(C, Circle(N))",
+            "PointLiesOnCircle(D, Circle(N))",
+            "PointLiesOnCircle(F, Circle(N))",
+            "PointLiesOnLine(C, Line(B, D))",
+            "PointLiesOnLine(E, Line(B, G))",
+            "PointLiesOnLine(F, Line(D, G))",
+            "PointLiesOnLine(A, Line(D, E))",
+            "PointLiesOnLine(A, Line(B, F))"
+
+
+        ]
+    }
+}

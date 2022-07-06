@@ -1,0 +1,44 @@
+{
+  "problem_text": "In Fig. 9.4, AB is a chord of the circle and AOC is its diameter such that ACB = 50\u00b0. If AT is the tangent to the circle at the point A, then BAT is equal to ",
+  "choices": [
+    "65",
+    "60",
+    "50",
+    "4"
+  ],
+  "answer": "",
+  "detailed_solution": " ",
+  "problem_type_graph": [],
+  "problem_type_goal": [],
+  "source": "",
+  "comment": "",
+  "id": "19",
+  "annot_id": "",
+  "is_standard": "",
+  "compact_choices": [
+    "65",
+    "60",
+    "50",
+    "4"
+  ],
+  "precise_value": [
+    65.0,
+    60.0,
+    50.0,
+    4.0
+  ],
+  "rough_value": [
+    65,
+    60,
+    50,
+    4
+  ],
+  "compact_text": "",
+  "annotat_text": "",
+  "unit": "",
+  "img_width": 0,
+  "img_height": 0,
+  "data_type": "",
+  "date": "23-05-2022",
+  "system": "linux"
+}

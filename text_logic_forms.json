@@ -1,0 +1,26 @@
+{
+  "0": {
+    "text_logic_forms": [
+      "Line(A,B)",
+      "Line(C,D)",
+      "Circle($)",
+      "Line(O,P)",
+      "Line(O,Q)",
+      "IsChordOf(Line(A,B),Circle($))",
+      "IsChordOf(Line(C,D),Circle($))",
+      "Equals(Triangle(P,O,Q),150)"
+    ],
+    "output_text": "[Line(A,B)] and [Line(C,D)] are two equal chords of [Circle($)] with centre O. [Line(O,P)] is perpendicular, [Line(O,Q)] is perpendicular on [IsChordOf(Line(A,B),Circle($))] and [IsChordOf(Line(C,D),Circle($))],. If \u2220[Equals(Triangle(P,O,Q),150)] find \u2220APQ",
+    "success": false
+  },
+  "1": {
+    "text_logic_forms": [
+      "Equals(LengthOf(Line(O,A)),5)",
+      "Equals(LengthOf(Line(A,B)),8)",
+      "Perpendicular(Line(O,D),Line(A,B))",
+      "Find(LengthOf(Line(C,D)))"
+    ],
+    "output_text": "[Equals(LengthOf(Line(O,A)),5)] [Equals(LengthOf(Line(A,B)),8)] [Perpendicular(Line(O,D),Line(A,B))]. [Find(LengthOf(Line(C,D)))]",
+    "success": true
+  }
+}

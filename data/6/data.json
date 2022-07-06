@@ -1,0 +1,44 @@
+{
+  "problem_text": "In Fig. 10.7, if \u2220DAB = 60\u00ba, \u2220ABD = 50\u00ba, then \u2220ACB is equal to",
+  "choices": [
+    "60",
+    "50",
+    "70",
+    "80"
+  ],
+  "answer": "",
+  "detailed_solution": " ",
+  "problem_type_graph": [],
+  "problem_type_goal": [],
+  "source": "",
+  "comment": "",
+  "id": "6",
+  "annot_id": "",
+  "is_standard": "",
+  "compact_choices": [
+    "60",
+    "50",
+    "70",
+    "80"
+  ],
+  "precise_value": [
+    60.0,
+    50.0,
+    70.0,
+    80.0
+  ],
+  "rough_value": [
+    60,
+    50,
+    70,
+    80
+  ],
+  "compact_text": "",
+  "annotat_text": "",
+  "unit": "",
+  "img_width": 0,
+  "img_height": 0,
+  "data_type": "",
+  "date": "",
+  "system": ""
+}

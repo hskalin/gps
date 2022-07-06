@@ -1,0 +1,44 @@
+{
+  "problem_text": "In Fig.10.4, if \u2220ABC = 20\u00ba, then \u2220AOC is equal to",
+  "choices": [
+    "20",
+    "40",
+    "60",
+    "10"
+  ],
+  "answer": "",
+  "detailed_solution": " ",
+  "problem_type_graph": [],
+  "problem_type_goal": [],
+  "source": "",
+  "comment": "",
+  "id": "3",
+  "annot_id": "",
+  "is_standard": "",
+  "compact_choices": [
+    "20",
+    "40",
+    "60",
+    "10"
+  ],
+  "precise_value": [
+    20.0,
+    40.0,
+    60.0,
+    10.0
+  ],
+  "rough_value": [
+    20,
+    40,
+    60,
+    10
+  ],
+  "compact_text": "",
+  "annotat_text": "",
+  "unit": "",
+  "img_width": 0,
+  "img_height": 0,
+  "data_type": "",
+  "date": "",
+  "system": ""
+}

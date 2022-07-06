@@ -1,0 +1,18 @@
+{
+    "0": {
+        "id": "0",
+        "num_seqs": 5,
+        "seq": [
+            "['circle(M)', 'Circle(N'', 'PointL"
+        ]
+    },
+
+    
+    "1": {
+        "id": "1",
+        "num_seqs": 5,
+        "seq": [
+            "['Circle(M)', 'Circle(-N)')', 'Line"
+        ]
+    }
+}

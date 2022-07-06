@@ -1,0 +1,44 @@
+{
+  "problem_text": "In Fig. 10.8, BC is a diameter of the circle and \u2220BAO = 60\u00ba. Then \u2220ADC is equal to ",
+  "choices": [
+    "30",
+    "45",
+    "60",
+    "120"
+  ],
+  "answer": "",
+  "detailed_solution": " ",
+  "problem_type_graph": [],
+  "problem_type_goal": [],
+  "source": "",
+  "comment": "",
+  "id": "8",
+  "annot_id": "",
+  "is_standard": "",
+  "compact_choices": [
+    "30",
+    "45",
+    "60",
+    "120"
+  ],
+  "precise_value": [
+    30.0,
+    45.0,
+    60.0,
+    120.0
+  ],
+  "rough_value": [
+    30,
+    45,
+    60,
+    120
+  ],
+  "compact_text": "",
+  "annotat_text": "",
+  "unit": "",
+  "img_width": 0,
+  "img_height": 0,
+  "data_type": "",
+  "date": "",
+  "system": ""
+}

@@ -1,0 +1,48 @@
+{
+  "problem_text": "In Fig. 9.1, the pair of tangents AP and AQ drawn from an external point A to a circle with centre O are perpendicular to each other and length of each tangent is 5 cm. Then the radius of the circle is ",
+  "choices": [
+    "10",
+    "7.5",
+    "5",
+    "2.5"
+  ],
+  "answer": "C",
+  "detailed_solution": " ",
+  "problem_type_graph": [
+    "Circle"
+  ],
+  "problem_type_goal": [
+    "Length"
+  ],
+  "source": "jeep209.pdf",
+  "comment": "",
+  "id": "11",
+  "annot_id": "",
+  "is_standard": "",
+  "compact_choices": [
+    "10",
+    "7.5",
+    "5",
+    "2.5"
+  ],
+  "precise_value": [
+    10.0,
+    7.5,
+    5.0,
+    2.5
+  ],
+  "rough_value": [
+    10,
+    7.5,
+    5,
+    2.5
+  ],
+  "compact_text": "",
+  "annotat_text": "",
+  "unit": "",
+  "img_width": 0,
+  "img_height": 0,
+  "data_type": "",
+  "date": "23-05-2022",
+  "system": "linux"
+}

@@ -1,0 +1,48 @@
+{
+  "problem_text": "If radii of two concentric circles are 4 cm and 5 cm, then the length of each chord of one circle which is tangent to the other circle is ",
+  "choices": [
+    "3",
+    "6",
+    "9",
+    "1"
+  ],
+  "answer": "B",
+  "detailed_solution": " ",
+  "problem_type_graph": [
+    "Circle"
+  ],
+  "problem_type_goal": [
+    "Length"
+  ],
+  "source": "jeep209.pdf",
+  "comment": "",
+  "id": "13",
+  "annot_id": "",
+  "is_standard": "",
+  "compact_choices": [
+    "3",
+    "6",
+    "9",
+    "1"
+  ],
+  "precise_value": [
+    3.0,
+    6.0,
+    9.0,
+    1.0
+  ],
+  "rough_value": [
+    3,
+    6,
+    9,
+    1
+  ],
+  "compact_text": "",
+  "annotat_text": "",
+  "unit": "",
+  "img_width": 0,
+  "img_height": 0,
+  "data_type": "",
+  "date": "23-05-2022",
+  "system": "linux"
+}

@@ -1,0 +1,44 @@
+{
+  "problem_text": "In Fig.10.5, if AOB is a diameter of the circle and AC = BC, then \u2220CAB is equal to",
+  "choices": [
+    "30",
+    "60",
+    "90",
+    "45"
+  ],
+  "answer": "",
+  "detailed_solution": " ",
+  "problem_type_graph": [],
+  "problem_type_goal": [],
+  "source": "",
+  "comment": "",
+  "id": "4",
+  "annot_id": "",
+  "is_standard": "",
+  "compact_choices": [
+    "30",
+    "60",
+    "90",
+    "45"
+  ],
+  "precise_value": [
+    30.0,
+    60.0,
+    90.0,
+    45.0
+  ],
+  "rough_value": [
+    30,
+    60,
+    90,
+    45
+  ],
+  "compact_text": "",
+  "annotat_text": "",
+  "unit": "",
+  "img_width": 0,
+  "img_height": 0,
+  "data_type": "",
+  "date": "",
+  "system": ""
+}

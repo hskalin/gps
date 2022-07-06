@@ -1,0 +1,44 @@
+{
+  "problem_text": "If AB = 12 cm, BC = 16 cm and AB is perpendicular to BC, then the radius of the circle passing through the points A, B and C is ",
+  "choices": [
+    "6",
+    "8",
+    "10",
+    "12"
+  ],
+  "answer": "",
+  "detailed_solution": " ",
+  "problem_type_graph": [],
+  "problem_type_goal": [],
+  "source": "",
+  "comment": "",
+  "id": "2",
+  "annot_id": "",
+  "is_standard": "",
+  "compact_choices": [
+    "6",
+    "8",
+    "10",
+    "12"
+  ],
+  "precise_value": [
+    6.0,
+    8.0,
+    10.0,
+    12.0
+  ],
+  "rough_value": [
+    6,
+    8,
+    10,
+    12
+  ],
+  "compact_text": "",
+  "annotat_text": "",
+  "unit": "",
+  "img_width": 0,
+  "img_height": 0,
+  "data_type": "",
+  "date": "",
+  "system": ""
+}

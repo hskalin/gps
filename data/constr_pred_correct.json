@@ -1,0 +1,23 @@
+{
+    "0": {
+        "constr_forms": [
+
+            "PointLiesOnCircle(E, Circle(M))",
+            "PointLiesOnLine(B, Line(D, E))",
+            "Secant(Line(A, E), Circle(M))",
+            "IsRadiusOf(Line(A, O'), Circle(M))",
+            "IsRadiusOf(Line(E, O'), Circle(M))",
+            "IsRadiusOf(Line(C, O), Circle(N))"
+            
+        ]
+    },
+    "1": {
+        "constr_forms": [
+
+            "Line(A, C)",
+            "Secant(Line(A, C), Circle(M))",
+            "Secant(Line(A, C), Circle(N))"
+            
+        ]
+    }
+}
