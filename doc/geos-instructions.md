@@ -31,6 +31,7 @@ From: ubuntu:16.04
     export PYTHONPATH=$PYTHONPATH:/root/EquationTree/equationtree
     export PYTHONPATH=$PYTHONPATH:/root/geoserver/geoserver
     export PYTHONPATH=$PYTHONPATH:/root/geosolver/geosolver
+    export LC_ALL=C
 
 ```
 
