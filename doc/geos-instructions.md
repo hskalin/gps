@@ -6,7 +6,6 @@
 Install Singularity using [these](https://sylabs.io/guides/3.5/user-guide/quick_start.html#quick-installation-steps) instructions (compiled from source). The following combination is known to work :
 
 * Ubuntu/Kubuntu 20.04
-* ROS Noetic
 * Go 1.18
 * Singularity 3.9.8 
 
