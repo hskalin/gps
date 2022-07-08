@@ -15,11 +15,11 @@ Save the below code as `geosing.def`.
 
 ```
 Bootstrap: docker
-From: ubuntu:16.04
+From: ubuntu:20.04
 
 
 %post -c /bin/bash
-    apt -y update; apt-get -y install wget python python-pip vim
+    apt -y update; apt-get -y install wget python python-pip vim git
 	  
     git clone https://github.com/seominjoon/geoserver.git
     git clone https://github.com/seominjoon/geosolver.git
